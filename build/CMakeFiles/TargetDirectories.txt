@@ -1,3 +1,0 @@
-C:/Users/Jayanth G/Desktop/Gitprac/build/CMakeFiles/HelloWorld.dir
-C:/Users/Jayanth G/Desktop/Gitprac/build/CMakeFiles/edit_cache.dir
-C:/Users/Jayanth G/Desktop/Gitprac/build/CMakeFiles/rebuild_cache.dir
